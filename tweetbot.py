@@ -1,11 +1,26 @@
 # Twitter api
+import tweepy
+import os
 
 def main():
-    api_key = 'WbJD4ltA9kbIAq3gFzIA5v6t7'
-    api_secret = '9V6WOkQxIPKbQMqePQzWzkaJgN5c5kWaYM2NCbFCvyNBVg4PKw'
-    bearer_token = 'AAAAAAAAAAAAAAAAAAAAAH8LIQEAAAAAO4La9O%2FS1DC%2B9N6%2FGTf1GCPK600%3DV73qqkoTgZoNm8t07No9kJ8qirH7XGoWEKIzKQv7QyDcyTVpIT'
-    print(api_key)
+    # Auth vars
+    consumer_key = os.getenv('twitter_consumer_key')
+    consumer_secret = os.getenv('twitter_consumer_secret')
+    bearer_token = os.getenv('twitter_bearer_token')
+    access_token = os.getenv('twitter_access_token')
+    access_token_secret = os.getenv('twitter_access_token_secret')
 
+    # Authenticate
+    auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+    auth.set_access_token(access_token, access_token_secret)
+    api = tweepy.API(auth)
+
+    # Set text and image
+    message = 'I wrote some simple code that posted this tweet. #python #tweepy'
+    image = api.media_upload('image.jpg')
+
+    # Post tweet with image
+    api.update_status(status = message, media_ids=[image.media_id])
 
 if __name__ == "__main__":
     main()
