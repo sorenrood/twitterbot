@@ -1,0 +1,13 @@
+C:\Users\soren\dev\personal\twitterbot\twitterbot\target\debug\deps\url-a02ee22c3765fecb.rmeta: C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.0\src\lib.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.0\src\host.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.0\src\origin.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.0\src\parser.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.0\src\path_segments.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.0\src\slicing.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.0\src\quirks.rs
+
+C:\Users\soren\dev\personal\twitterbot\twitterbot\target\debug\deps\liburl-a02ee22c3765fecb.rlib: C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.0\src\lib.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.0\src\host.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.0\src\origin.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.0\src\parser.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.0\src\path_segments.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.0\src\slicing.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.0\src\quirks.rs
+
+C:\Users\soren\dev\personal\twitterbot\twitterbot\target\debug\deps\url-a02ee22c3765fecb.d: C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.0\src\lib.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.0\src\host.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.0\src\origin.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.0\src\parser.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.0\src\path_segments.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.0\src\slicing.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.0\src\quirks.rs
+
+C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.0\src\lib.rs:
+C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.0\src\host.rs:
+C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.0\src\origin.rs:
+C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.0\src\parser.rs:
+C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.0\src\path_segments.rs:
+C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.0\src\slicing.rs:
+C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\url-2.2.0\src\quirks.rs:

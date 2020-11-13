@@ -1,0 +1,13 @@
+c:\Users\soren\dev\personal\twitterbot\twitterbot\target\debug\deps\tracing-91fbb669fb184577.rmeta: C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.21\src\lib.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.21\src\macros.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.21\src\dispatcher.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.21\src\field.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.21\src\instrument.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.21\src\level_filters.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.21\src\span.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.21\src\stdlib.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.21\src\subscriber.rs
+
+c:\Users\soren\dev\personal\twitterbot\twitterbot\target\debug\deps\tracing-91fbb669fb184577.d: C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.21\src\lib.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.21\src\macros.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.21\src\dispatcher.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.21\src\field.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.21\src\instrument.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.21\src\level_filters.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.21\src\span.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.21\src\stdlib.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.21\src\subscriber.rs
+
+C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.21\src\lib.rs:
+C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.21\src\macros.rs:
+C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.21\src\dispatcher.rs:
+C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.21\src\field.rs:
+C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.21\src\instrument.rs:
+C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.21\src\level_filters.rs:
+C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.21\src\span.rs:
+C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.21\src\stdlib.rs:
+C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.21\src\subscriber.rs:

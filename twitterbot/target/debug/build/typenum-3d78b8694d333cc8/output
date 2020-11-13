@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=c:\Users\soren\dev\personal\twitterbot\twitterbot\target\debug\build\typenum-3d78b8694d333cc8\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=c:\Users\soren\dev\personal\twitterbot\twitterbot\target\debug\build\typenum-3d78b8694d333cc8\out\op.rs

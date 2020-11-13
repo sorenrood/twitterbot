@@ -1,0 +1,11 @@
+c:\Users\soren\dev\personal\twitterbot\twitterbot\target\debug\deps\thiserror_impl-54f1d88aeb18631f.dll: C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.22\src\lib.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.22\src\ast.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.22\src\attr.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.22\src\expand.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.22\src\fmt.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.22\src\prop.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.22\src\valid.rs
+
+c:\Users\soren\dev\personal\twitterbot\twitterbot\target\debug\deps\thiserror_impl-54f1d88aeb18631f.d: C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.22\src\lib.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.22\src\ast.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.22\src\attr.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.22\src\expand.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.22\src\fmt.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.22\src\prop.rs C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.22\src\valid.rs
+
+C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.22\src\lib.rs:
+C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.22\src\ast.rs:
+C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.22\src\attr.rs:
+C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.22\src\expand.rs:
+C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.22\src\fmt.rs:
+C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.22\src\prop.rs:
+C:\Users\soren\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.22\src\valid.rs:
